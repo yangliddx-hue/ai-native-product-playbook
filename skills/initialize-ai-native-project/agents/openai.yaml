@@ -1,0 +1,4 @@
+interface:
+  display_name: "Initialize AI-Native Project"
+  short_description: "Safely initialize or adopt a product workflow"
+  default_prompt: "Initialize this product repository with the AI-Native Product Playbook, preserving existing files and surfacing unknowns."
